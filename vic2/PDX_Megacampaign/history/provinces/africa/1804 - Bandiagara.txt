@@ -1,8 +1,0 @@
-owner=SGH
-controller=SGH
-add_core=JNN
-add_core=SGH
-trade_goods = cattle
-life_rating = 32
-terrain = semidesert
-fort = 1

@@ -1,7 +1,0 @@
-owner=KHO
-controller=KHO
-add_core=KHO
-add_core=PER
-add_core=X17
-trade_goods = fruit
-life_rating = 35

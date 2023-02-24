@@ -1,5 +1,0 @@
-owner=LOT
-controller=LOT
-trade_goods = timber
-life_rating = 10
-colonial=2

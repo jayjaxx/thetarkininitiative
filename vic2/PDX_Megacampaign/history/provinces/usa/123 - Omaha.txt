@@ -1,5 +1,0 @@
-owner=CAS
-controller=MEX
-add_core=CAS
-trade_goods = fruit
-life_rating = 35

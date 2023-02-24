@@ -1,8 +1,0 @@
-owner=THU
-controller=LOT
-add_core=GER
-add_core=LOT
-add_core=THU
-trade_goods = cattle
-life_rating = 40
-fort = 1

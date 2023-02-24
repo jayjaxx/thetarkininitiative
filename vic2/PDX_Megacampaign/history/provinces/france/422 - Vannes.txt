@@ -1,7 +1,0 @@
-owner=LOT
-controller=LOT
-add_core=BRT
-add_core=FRA
-add_core=LOT
-trade_goods = fish
-life_rating = 31

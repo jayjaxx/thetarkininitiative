@@ -1,7 +1,0 @@
-owner=X20
-controller=X20
-add_core=CHI
-add_core=CMI
-add_core=X20
-trade_goods = silk
-life_rating = 32

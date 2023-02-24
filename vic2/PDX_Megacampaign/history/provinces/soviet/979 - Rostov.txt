@@ -1,6 +1,0 @@
-owner=X07
-controller=GOL
-add_core=X07
-trade_goods = coal
-life_rating = 40
-terrain = mining_district

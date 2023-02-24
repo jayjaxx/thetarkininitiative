@@ -1,8 +1,0 @@
-owner=BRG
-controller=BRG
-add_core=BRG
-add_core=GER
-add_core=X18
-trade_goods = cattle
-life_rating = 40
-fort = 1

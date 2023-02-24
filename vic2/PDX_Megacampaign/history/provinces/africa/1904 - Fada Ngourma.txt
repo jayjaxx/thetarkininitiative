@@ -1,6 +1,0 @@
-owner=SGH
-controller=SGH
-add_core=KNG
-add_core=SGH
-trade_goods = wool
-life_rating = 35

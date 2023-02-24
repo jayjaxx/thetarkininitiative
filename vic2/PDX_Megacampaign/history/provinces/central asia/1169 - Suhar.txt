@@ -1,8 +1,0 @@
-owner=ISR
-controller=ISR
-add_core=ISR
-add_core=KHA
-add_core=MGL
-trade_goods = grain
-life_rating = 20
-fort = 1

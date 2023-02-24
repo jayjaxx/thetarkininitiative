@@ -1,7 +1,0 @@
-owner=LTN
-controller=LTN
-trade_goods = grain
-life_rating = 35
-terrain = semidesert
-naval_base = 1
-colonial=2

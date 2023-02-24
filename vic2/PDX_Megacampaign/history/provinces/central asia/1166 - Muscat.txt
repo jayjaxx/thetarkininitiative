@@ -1,6 +1,0 @@
-owner=ISR
-controller=ISR
-add_core=ARA
-add_core=ISR
-trade_goods = opium
-life_rating = 35

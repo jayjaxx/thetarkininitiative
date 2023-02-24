@@ -1,7 +1,0 @@
-owner=SGH
-controller=SGH
-add_core=SGH
-trade_goods = fish
-life_rating = 32
-terrain = semidesert
-naval_base = 1

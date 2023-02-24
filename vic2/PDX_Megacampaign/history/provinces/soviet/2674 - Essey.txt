@@ -1,9 +1,0 @@
-owner=GOL
-controller=GOL
-add_core=GOL
-add_core=GOL
-add_core=KHA
-add_core=MGL
-add_core=ZUN
-trade_goods = timber
-life_rating = 35

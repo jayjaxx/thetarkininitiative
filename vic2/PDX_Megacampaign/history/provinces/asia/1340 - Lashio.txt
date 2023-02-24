@@ -1,9 +1,0 @@
-owner=X20
-controller=X20
-add_core=BUR
-add_core=IDO
-add_core=SHA
-add_core=X20
-trade_goods = tropical_wood
-life_rating = 33
-fort = 1

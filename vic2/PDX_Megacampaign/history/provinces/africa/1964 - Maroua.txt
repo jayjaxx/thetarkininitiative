@@ -1,5 +1,0 @@
-owner=X02
-controller=X02
-trade_goods = fruit
-life_rating = 10
-colonial=1

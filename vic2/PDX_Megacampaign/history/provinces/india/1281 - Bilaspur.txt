@@ -1,8 +1,0 @@
-owner=X20
-controller=HDU
-add_core=AWA
-add_core=HND
-add_core=MRT
-add_core=X20
-trade_goods = grain
-life_rating = 32

@@ -1,8 +1,0 @@
-owner=X21
-controller=X21
-add_core=HND
-add_core=SRI
-add_core=X21
-trade_goods = fruit
-life_rating = 35
-fort = 1

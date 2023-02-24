@@ -1,9 +1,0 @@
-owner=ISR
-controller=ISR
-add_core=ISR
-add_core=EGY
-add_core=X16
-add_core=ISR
-trade_goods = cotton
-life_rating = 32
-terrain = semidesert

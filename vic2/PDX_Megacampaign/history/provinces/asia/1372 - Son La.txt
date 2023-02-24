@@ -1,9 +1,0 @@
-owner=CAM
-controller=CAM
-add_core=CAM
-add_core=IDO
-add_core=LUA
-add_core=MMA
-trade_goods = tropical_wood
-life_rating = 33
-fort = 1

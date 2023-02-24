@@ -1,8 +1,0 @@
-owner=ISR
-controller=ISR
-add_core=ISR
-add_core=KHA
-add_core=MGL
-trade_goods = fruit
-life_rating = 31
-terrain = semidesert

@@ -1,7 +1,0 @@
-owner=HDU
-controller=HDU
-add_core=AWA
-add_core=HDU
-add_core=HND
-trade_goods = tobacco
-life_rating = 32

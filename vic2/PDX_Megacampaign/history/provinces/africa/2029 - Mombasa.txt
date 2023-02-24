@@ -1,8 +1,0 @@
-owner=LTN
-controller=LTN
-trade_goods = fish
-life_rating = 35
-terrain = savanna
-naval_base = 1
-fort = 1
-colonial=2

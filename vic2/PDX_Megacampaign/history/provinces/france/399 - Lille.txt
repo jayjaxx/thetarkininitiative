@@ -1,9 +1,0 @@
-owner=LOT
-controller=LOT
-add_core=BEL
-add_core=HAT
-add_core=LOT
-add_core=WLL
-trade_goods = iron
-life_rating = 31
-fort = 1

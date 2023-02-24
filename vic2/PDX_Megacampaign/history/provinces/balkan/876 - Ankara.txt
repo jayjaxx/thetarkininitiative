@@ -1,7 +1,0 @@
-owner=TUR
-controller=X12
-add_core=BYZ
-add_core=TUR
-add_core=X12
-trade_goods = fruit
-life_rating = 35

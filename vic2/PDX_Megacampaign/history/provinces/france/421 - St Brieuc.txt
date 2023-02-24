@@ -1,8 +1,0 @@
-owner=LOT
-controller=LOT
-add_core=BRT
-add_core=FRA
-add_core=LOT
-trade_goods = grain
-life_rating = 32
-naval_base = 2

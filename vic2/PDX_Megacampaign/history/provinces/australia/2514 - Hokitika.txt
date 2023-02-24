@@ -1,7 +1,0 @@
-owner=SNZ
-controller=SNZ
-add_core=AOT
-add_core=SNZ
-trade_goods = wool
-life_rating = 30
-terrain = montane_forest

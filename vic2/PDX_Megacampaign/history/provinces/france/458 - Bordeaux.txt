@@ -1,9 +1,0 @@
-owner=SPA
-controller=SPA
-add_core=FRA
-add_core=OCC
-add_core=SPA
-trade_goods = wool
-life_rating = 31
-terrain = forest
-naval_base = 1

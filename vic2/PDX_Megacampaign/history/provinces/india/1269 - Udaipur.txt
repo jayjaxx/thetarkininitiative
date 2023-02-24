@@ -1,8 +1,0 @@
-owner=HDU
-controller=HDU
-add_core=BUN
-add_core=HDU
-add_core=HND
-add_core=MEW
-trade_goods = opium
-life_rating = 32

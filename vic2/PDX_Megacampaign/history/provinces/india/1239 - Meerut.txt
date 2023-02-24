@@ -1,8 +1,0 @@
-owner=HDU
-controller=HDU
-add_core=DLH
-add_core=GHR
-add_core=HDU
-add_core=HND
-trade_goods = grain
-life_rating = 32

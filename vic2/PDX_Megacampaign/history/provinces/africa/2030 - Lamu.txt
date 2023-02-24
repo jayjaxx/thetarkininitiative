@@ -1,9 +1,0 @@
-owner=SOM
-controller=SOM
-add_core=SWA
-trade_goods = cattle
-life_rating = 35
-terrain = savanna
-colonial=1
-naval_base = 2
-fort = 1

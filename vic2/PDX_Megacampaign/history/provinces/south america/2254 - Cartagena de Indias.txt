@@ -1,7 +1,0 @@
-owner=CLM
-controller=CLM
-add_core=ARW
-add_core=CLM
-add_core=MCA
-trade_goods = fish
-life_rating = 35

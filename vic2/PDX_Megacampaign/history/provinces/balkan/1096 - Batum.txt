@@ -1,5 +1,0 @@
-owner=ISR
-controller=ISR
-trade_goods = fish
-life_rating = 35
-fort = 1
