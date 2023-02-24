@@ -1,0 +1,8 @@
+owner=ZUL
+controller=ZUL
+add_core=ZUL
+add_core=MAD
+trade_goods = wool
+life_rating = 35
+terrain = montane_forest
+

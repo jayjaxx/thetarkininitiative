@@ -1,0 +1,6 @@
+owner=X06
+controller=X06
+add_core=ALS
+add_core=X06
+trade_goods = sulphur
+life_rating = 31

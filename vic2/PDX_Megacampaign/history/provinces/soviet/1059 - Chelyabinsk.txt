@@ -1,0 +1,8 @@
+owner=GOL
+controller=GOL
+add_core=GOL
+add_core=GOL
+add_core=GRH
+trade_goods = iron
+life_rating = 35
+fort = 1

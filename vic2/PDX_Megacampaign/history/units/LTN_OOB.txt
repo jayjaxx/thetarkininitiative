@@ -1,0 +1,619 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ASI = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = -2
+	level = 2
+}
+BRG = {
+	value = 35
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = -4
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 65
+	influence_value = 3
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+GOL = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+HDU = {
+	value = 0
+	level = 2
+}
+HUA = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = -86
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ISR = {
+	value = 45
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 21
+	level = 2
+}
+JIM = {
+	value = 30
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LTN = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MEI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLY = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOL = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = -9
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+PRG = {
+	value = -26
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SOM = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+THU = {
+	value = 0
+	level = 2
+}
+TUL = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Gargamel Visconti"
+	date="1743.2.27"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Amram Spinola"
+	date="1746.10.5"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Baudouin Spinola"
+	date="1761.7.3"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Antoine Allucingolli"
+	date="1761.7.4"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Godefroy Strozzi"
+	date="1761.7.6"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Esfandiar Malipiero"
+	date="1761.7.8"
+	type=land
+	personality="disciplined"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Assefa Moneta"
+	date="1761.7.9"
+	type=land
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Antoine di Ponzone"
+	date="1763.6.28"
+	type=sea
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+
+#Armies
+navy = {
+	name="8th Fleet"
+	location=762
+	ship = {
+		name="Hellas"
+		type=frigate
+	}
+	ship = {
+		name="Navarino"
+		type=frigate
+	}
+	ship = {
+		name="Psara"
+		type=frigate
+	}
+	ship = {
+		name="Prinkips Maximilianos"
+		type=frigate
+	}
+	ship = {
+		name="Maxamillianos"
+		type=frigate
+	}
+	ship = {
+		name="Mount Othrys"
+		type=frigate
+	}
+	ship = {
+		name="Thíva"
+		type=frigate
+	}
+	ship = {
+		name="Skirka"
+		type=frigate
+	}
+	ship = {
+		name="Heratos"
+		type=frigate
+	}
+	ship = {
+		name="Aeolus"
+		type=frigate
+	}
+	ship = {
+		name="3rd Rome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Leghorn Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Viterbo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Foggia Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2756
+	ship = {
+		name="1st Cyclades Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Patras Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Polygyros Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Polygyros Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=869
+	regiment = {
+		name="1st Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="1st Gjirokaster Infantry"
+		type=infantry
+		home=853
+	}
+	regiment = {
+		name="1st Janina Infantry"
+		type=infantry
+		home=824
+	}
+	regiment = {
+		name="1st Myteline Infantry"
+		type=infantry
+		home=844
+	}
+	regiment = {
+		name="1st Corinth Infantry"
+		type=infantry
+		home=840
+	}
+	regiment = {
+		name="1st Polygyros Infantry"
+		type=infantry
+		home=822
+	}
+}
+
+army = {
+	name="1st Army"
+	location=859
+	regiment = {
+		name="1st Gaeta Infantry"
+		type=infantry
+		home=2567
+	}
+	regiment = {
+		name="1st Brindisi Infantry"
+		type=infantry
+		home=758
+	}
+	regiment = {
+		name="1st Reggio di Calabria Infantry"
+		type=infantry
+		home=759
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=859
+	regiment = {
+		name="1st Pescara Infantry"
+		type=infantry
+		home=10
+	}
+	regiment = {
+		name="1st Salerno Infantry"
+		type=infantry
+		home=755
+	}
+}
+

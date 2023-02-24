@@ -1,0 +1,5 @@
+owner=POM
+controller=POM
+trade_goods = fish
+life_rating = 10
+naval_base = 1

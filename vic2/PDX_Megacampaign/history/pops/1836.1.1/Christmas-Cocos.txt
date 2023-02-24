@@ -1,0 +1,198 @@
+2244 = {
+	soldiers=
+	{
+		culture = naiyeren
+		religion = mahayana
+		size= 113
+	}
+
+	farmers=
+	{
+		culture = naiyeren
+		religion = mahayana
+		size= 10702
+	}
+
+	artisans=
+	{
+		culture = naiyeren
+		religion = mahayana
+		size= 803
+	}
+
+	aristocrats=
+	{
+		culture = naiyeren
+		religion = mahayana
+		size= 96
+	}
+
+	clergymen=
+	{
+		culture = naiyeren
+		religion = mahayana
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = naiyeren
+		religion = mahayana
+		size= 10
+	}
+
+	officers=
+	{
+		culture = naiyeren
+		religion = mahayana
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = naiyeren
+		religion = catholic
+		size= 77
+	}
+
+	artisans=
+	{
+		culture = naiyeren
+		religion = catholic
+		size= 1876
+	}
+
+	clergymen=
+	{
+		culture = naiyeren
+		religion = catholic
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = naiyeren
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = naiyeren
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = naiyeren
+		religion = catholic
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = naiyeren
+		religion = catholic
+		size= 5356
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = catholic
+		size= 9479
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = catholic
+		size= 708
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 85
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = catholic
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = catholic
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = catholic
+		size= 1970
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = catholic
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 236
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = catholic
+		size= 6583
+	}
+
+}

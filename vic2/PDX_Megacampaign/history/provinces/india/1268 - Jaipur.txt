@@ -1,0 +1,8 @@
+owner=HDU
+controller=HDU
+add_core=AWA
+add_core=HDU
+add_core=HND
+add_core=MEW
+trade_goods = timber
+life_rating = 32

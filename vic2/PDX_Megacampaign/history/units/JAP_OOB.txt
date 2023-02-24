@@ -1,0 +1,630 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = -3
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ASI = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = -4
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 35
+	level = 2
+}
+BRU = {
+	value = -21
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 199
+	influence_value = 37
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 384
+	influence_value = 33
+	level = 3
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -94
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 25
+	level = 2
+}
+GOL = {
+	value = -24
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+HDU = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ISR = {
+	value = 35
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+LOT = {
+	value = 25
+	level = 2
+}
+LTN = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MEI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLY = {
+	value = 67
+	influence_value = 4
+	level = 3
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOL = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = -26
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SOM = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+THU = {
+	value = 0
+	level = 2
+}
+TUL = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+X09 = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = -142
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Mihito Otomo"
+	date="1733.2.8"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Yoshinori Imagawa"
+	date="1738.7.17"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Hideyoshi Tokugawa"
+	date="1738.7.19"
+	type=sea
+	personality="active_p"
+	background="aristocrat"
+}
+
+leader = {
+	name="Ieshige Toyotomi"
+	date="1756.9.3"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Ayahito Jinbo"
+	date="1756.9.4"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Katsuhito Sanada"
+	date="1757.7.21"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Iemochi Yamana"
+	date="1757.7.24"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Ieyasu Rokkaku"
+	date="1757.7.27"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Asahito Date"
+	date="1759.8.21"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Teruhito Mogami"
+	date="1761.5.26"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Yoshimitsu Shibata"
+	date="1767.8.3"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Yoshiharu Nagao"
+	date="1767.8.5"
+	type=land
+	personality="disciplined"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Hideyoshi Chosokabe"
+	date="1767.8.8"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+
+#Armies
+army = {
+	name="Imperial Army"
+	location=2639
+	regiment = {
+		name="1st Chengde Infantry"
+		type=infantry
+		home=1613
+	}
+	regiment = {
+		name="1st Kimchaek Infantry"
+		type=infantry
+		home=1623
+	}
+	regiment = {
+		name="1st Pohang Infantry"
+		type=infantry
+		home=1634
+	}
+	regiment = {
+		name="1st Chengde Artillery"
+		type=artillery
+		home=1613
+	}
+	regiment = {
+		name="1st Nyurba Artillery"
+		type=artillery
+		home=2650
+	}
+	regiment = {
+		name="1st Yakutsk Artillery"
+		type=artillery
+		home=2648
+	}
+}
+
+army = {
+	name="Kagyrgyn Gun"
+	location=1552
+	regiment = {
+		name="1st Olyekminsk Infantry"
+		type=infantry
+		home=2644
+	}
+	regiment = {
+		name="2nd Chengde Infantry"
+		type=infantry
+		home=1613
+	}
+	regiment = {
+		name="1st Pyongyang Artillery"
+		type=artillery
+		home=1619
+	}
+	regiment = {
+		name="1st Kyoto Artillery"
+		type=artillery
+		home=1657
+	}
+	regiment = {
+		name="2nd Yakutsk Artillery"
+		type=artillery
+		home=2648
+	}
+	regiment = {
+		name="2nd Chengde Artillery"
+		type=artillery
+		home=1613
+	}
+	regiment = {
+		name="1st Vyon Infantry"
+		type=infantry
+		home=2637
+	}
+	regiment = {
+		name="3rd Chengde Artillery"
+		type=artillery
+		home=1613
+	}
+}
+
+navy = {
+	name="Nagasaki Prefect Suigun"
+	location=3003
+	ship = {
+		name="Takao"
+		type=frigate
+	}
+	ship = {
+		name="Aviso"
+		type=frigate
+	}
+	ship = {
+		name="Fujisan"
+		type=frigate
+	}
+	ship = {
+		name="Kaede"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Yamato Basin Sendan"
+	location=2845
+	ship = {
+		name="Momo"
+		type=frigate
+	}
+	ship = {
+		name="Kurama"
+		type=frigate
+	}
+	ship = {
+		name="Chikuma"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Imperial Navy"
+	location=2826
+	ship = {
+		name="Kiri"
+		type=frigate
+	}
+	ship = {
+		name="Sakura"
+		type=frigate
+	}
+	ship = {
+		name="Keyaki"
+		type=frigate
+	}
+	ship = {
+		name="Nisshin"
+		type=frigate
+	}
+	ship = {
+		name="Ibuki"
+		type=frigate
+	}
+	ship = {
+		name="Tone"
+		type=frigate
+	}
+}
+

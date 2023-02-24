@@ -1,0 +1,5 @@
+owner=MJP
+controller=MJP
+add_core=MJP
+trade_goods = tropical_wood
+life_rating = 10

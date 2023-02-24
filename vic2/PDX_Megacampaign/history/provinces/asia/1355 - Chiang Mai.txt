@@ -1,0 +1,7 @@
+owner=SIA
+controller=SIA
+add_core=IDO
+trade_goods = opium
+life_rating = 32
+colonial=1
+fort = 1

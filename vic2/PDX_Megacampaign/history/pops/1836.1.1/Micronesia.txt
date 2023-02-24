@@ -1,0 +1,1107 @@
+610 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 393
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 2385
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 118
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 6
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 4
+	}
+
+}
+1654 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1026
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = shinto
+		size= 685
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = shinto
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = shinto
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = shinto
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = shinto
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = shinto
+		size= 1
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = shinto
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size= 209
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size= 335
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 17
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size= 6770
+	}
+
+}
+2517 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1123
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = shinto
+		size= 748
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = shinto
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = shinto
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = shinto
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = shinto
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = shinto
+		size= 1
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = shinto
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size= 229
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size= 366
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size= 7406
+	}
+
+}
+2518 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 934
+	}
+
+	farmers=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 1448
+	}
+
+	artisans=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 183
+	}
+
+	aristocrats=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = catholic
+		size= 298
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = catholic
+		size= 1674
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = catholic
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = catholic
+		size= 8450
+	}
+
+}
+2519 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 878
+	}
+
+	farmers=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 1364
+	}
+
+	artisans=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 172
+	}
+
+	aristocrats=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = catholic
+		size= 280
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = catholic
+		size= 1572
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = catholic
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = catholic
+		size= 7935
+	}
+
+}
+2521 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1112
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = shinto
+		size= 740
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = shinto
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = shinto
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = shinto
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = shinto
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = shinto
+		size= 1
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = shinto
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size= 227
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size= 363
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size= 7328
+	}
+
+}
+2522 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 1593
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 8925
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 450
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 22
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 95
+	}
+
+}
+2523 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2341
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 5085
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 564
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 55
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = catholic
+		size= 2133
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = catholic
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 27
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 8684
+	}
+
+}
+2525 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 2447
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = shinto
+		size= 1415
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = shinto
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = shinto
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = shinto
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = shinto
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = shinto
+		size= 14
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = shinto
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size= 169
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size= 755
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 38
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size= 15596
+	}
+
+}
+2527 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 3674
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 5805
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 186
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 738
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 34
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 440
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = catholic
+		size= 2936
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = catholic
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 11931
+	}
+
+}
+2579 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 402
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 2437
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 121
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 6
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 4
+	}
+
+}

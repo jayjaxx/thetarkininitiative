@@ -1,0 +1,6 @@
+owner=ISR
+controller=ISR
+add_core=ISR
+add_core=PER
+trade_goods = cotton
+life_rating = 35

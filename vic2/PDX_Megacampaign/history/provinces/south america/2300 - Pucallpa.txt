@@ -1,0 +1,7 @@
+owner=PEU
+controller=PEU
+add_core=CYA
+add_core=PEU
+trade_goods = wool
+life_rating = 31
+terrain = jungle

@@ -1,0 +1,16 @@
+guarantee=
+{
+	first="HDU"
+	second="X21"
+	start_date="1690.12.17"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="JER"
+	second="SGH"
+	start_date="1653.11.11"
+	end_date="1936.1.1"
+}
+

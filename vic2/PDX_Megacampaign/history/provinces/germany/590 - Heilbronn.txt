@@ -1,0 +1,8 @@
+owner=LOT
+controller=LOT
+add_core=GER
+add_core=LOT
+add_core=X00
+trade_goods = fruit
+life_rating = 40
+fort = 1

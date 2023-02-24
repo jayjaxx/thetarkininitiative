@@ -1,0 +1,581 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 4
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ASI = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 31
+	level = 2
+}
+ATJ = {
+	value = 10
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = -1
+	level = 2
+}
+BRG = {
+	value = 35
+	level = 2
+}
+BRU = {
+	value = 8
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+GOL = {
+	value = -63
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+HDU = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ISR = {
+	value = -61
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LTN = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MEI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLY = {
+	value = -26
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOL = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SOM = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+THU = {
+	value = 0
+	level = 2
+}
+TUL = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 97
+	influence_value = 11
+	level = 3
+}
+X22 = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Alkan VIII Hamidoglu"
+	date="1750.5.12"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Bozan Hamidoglu"
+	date="1760.11.6"
+	type=land
+	personality="intuitive"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Alptigin Ra'ana"
+	date="1743.11.27"
+	type=sea
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Tolun Nazirun"
+	date="1753.8.28"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Tolun Ra'ana"
+	date="1760.12.19"
+	type=land
+	personality="resourceful"
+	background="bootlicker"
+}
+
+leader = {
+	name="Masud Safsikhan"
+	date="1764.4.22"
+	type=sea
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+
+#Armies
+navy = {
+	name="9th Fleet"
+	location=2790
+	ship = {
+		name="Alia"
+		type=frigate
+	}
+	ship = {
+		name="Arusa"
+		type=frigate
+	}
+	ship = {
+		name="Chambal"
+		type=frigate
+	}
+	ship = {
+		name="Niloufa"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1302
+	regiment = {
+		name="1st Chabahar Infantry"
+		type=infantry
+		home=1146
+	}
+	regiment = {
+		name="1st Gulbarga Infantry"
+		type=infantry
+		home=1286
+	}
+	regiment = {
+		name="1st Gulbarga Cavalry"
+		type=cavalry
+		home=1286
+	}
+	regiment = {
+		name="1st Lahore Artillery"
+		type=artillery
+		home=1227
+	}
+	regiment = {
+		name="1st Ngari Artillery"
+		type=artillery
+		home=1592
+	}
+	regiment = {
+		name="2nd Nizamabad Infantry"
+		type=infantry
+		home=1285
+	}
+	regiment = {
+		name="1st Cawnpore Cavalry"
+		type=cavalry
+		home=1241
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1245
+	regiment = {
+		name="1st Lucknow Infantry"
+		type=infantry
+		home=1242
+	}
+	regiment = {
+		name="1st Nizamabad Infantry"
+		type=infantry
+		home=1285
+	}
+	regiment = {
+		name="1st Bikaner Infantry"
+		type=infantry
+		home=1267
+	}
+	regiment = {
+		name="1st Panipat Cavalry"
+		type=cavalry
+		home=1237
+	}
+	regiment = {
+		name="1st Mandvi Artillery"
+		type=artillery
+		home=1293
+	}
+	regiment = {
+		name="1st Poona Infantry"
+		type=infantry
+		home=1299
+	}
+	regiment = {
+		name="1st Ajmer Artillery"
+		type=artillery
+		home=1264
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2789
+	ship = {
+		name="Fatimah"
+		type=frigate
+	}
+	ship = {
+		name="Jalsena"
+		type=frigate
+	}
+	ship = {
+		name="Ganges"
+		type=frigate
+	}
+	ship = {
+		name="Kala Jahazi"
+		type=frigate
+	}
+	ship = {
+		name="Khan"
+		type=frigate
+	}
+	ship = {
+		name="Lal Jahazi"
+		type=frigate
+	}
+	ship = {
+		name="Nausena"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2801
+	ship = {
+		name="Nav ka Yudh"
+		type=frigate
+	}
+	ship = {
+		name="Niknaz"
+		type=frigate
+	}
+	ship = {
+		name="Nila Jahazi"
+		type=frigate
+	}
+	ship = {
+		name="Noor"
+		type=frigate
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1296
+	regiment = {
+		name="1st Patan Infantry"
+		type=infantry
+		home=1294
+	}
+	regiment = {
+		name="2nd Patan Infantry"
+		type=infantry
+		home=1294
+	}
+}
+

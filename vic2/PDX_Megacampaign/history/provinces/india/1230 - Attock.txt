@@ -1,0 +1,7 @@
+owner=HDU
+controller=HDU
+add_core=HDU
+add_core=HND
+add_core=PNJ
+trade_goods = wool
+life_rating = 32

@@ -1,0 +1,9 @@
+owner=GOL
+controller=GOL
+add_core=GOL
+add_core=KHI
+add_core=TKS
+trade_goods = fish
+life_rating = 15
+terrain = desert
+colonial=2

@@ -1,0 +1,183 @@
+1977 = {
+	aristocrats=
+	{
+		culture = bakongo
+		religion = animist
+		size= 1750
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = animist
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = animist
+		size= 4000
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 1000
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 72250
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = animist
+		size= 20000
+	}
+
+}
+1978 = {
+	aristocrats=
+	{
+		culture = bakongo
+		religion = animist
+		size= 750
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = animist
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 26500
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = animist
+		size= 10000
+	}
+
+}
+1980 = {
+	aristocrats=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 275
+	}
+
+	clergymen=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 750
+	}
+
+	soldiers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 13675
+	}
+
+	slaves=
+	{
+		culture = ubangian
+		religion = animist
+		size= 500
+	}
+
+}
+2624 = {
+	aristocrats=
+	{
+		culture = bakongo
+		religion = animist
+		size= 1500
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = animist
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = animist
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = animist
+		size= 3250
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 1000
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 53500
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = animist
+		size= 20000
+	}
+
+}

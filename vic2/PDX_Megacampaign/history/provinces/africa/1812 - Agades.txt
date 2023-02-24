@@ -1,0 +1,4 @@
+owner=SGH
+controller=SGH
+trade_goods = wool
+life_rating = 5

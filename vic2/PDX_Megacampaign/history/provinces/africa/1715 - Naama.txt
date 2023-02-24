@@ -1,0 +1,8 @@
+owner=JER
+controller=JER
+add_core=CAT
+add_core=JER
+add_core=SPA
+trade_goods = wool
+life_rating = 31
+terrain = semidesert

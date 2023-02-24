@@ -1,0 +1,9 @@
+owner=SPA
+controller=SPA
+add_core=FRA
+add_core=NAV
+add_core=OCC
+add_core=SPA
+add_core=TUL
+trade_goods = grain
+life_rating = 31

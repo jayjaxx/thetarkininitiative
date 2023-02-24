@@ -1,0 +1,6 @@
+owner=MLY
+controller=MLY
+add_core=MLY
+trade_goods = coffee
+life_rating = 32
+naval_base = 2

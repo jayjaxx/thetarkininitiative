@@ -1,0 +1,10 @@
+owner=POM
+controller=IRE
+add_core=ICL
+add_core=POM
+add_core=SCA
+trade_goods = wool
+life_rating = 30
+terrain = small_island
+naval_base = 1
+colonial=2

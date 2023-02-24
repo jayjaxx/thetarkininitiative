@@ -1,0 +1,172 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 595
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1554
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 2132
+	}
+
+	farmers=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 5066
+	}
+
+	artisans=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 398
+	}
+
+	aristocrats=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 83
+	}
+
+	clergymen=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 78
+	}
+
+}
+1973 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 85
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 5956
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 1021
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 321
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 17546
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 32
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 270
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 194
+	}
+
+}

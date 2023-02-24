@@ -1,0 +1,13 @@
+owner=X20
+controller=X20
+add_core=CHI
+add_core=LNG
+add_core=X20
+trade_goods = cattle
+life_rating = 32
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

@@ -1,0 +1,5 @@
+owner=SGH
+controller=SGH
+trade_goods = cattle
+life_rating = 32
+terrain = semidesert

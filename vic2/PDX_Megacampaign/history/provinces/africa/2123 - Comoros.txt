@@ -1,0 +1,6 @@
+owner=MLY
+controller=MLY
+trade_goods = fish
+life_rating = 30
+colonial=2
+fort = 1

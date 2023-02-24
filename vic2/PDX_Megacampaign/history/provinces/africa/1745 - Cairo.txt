@@ -1,0 +1,7 @@
+owner=ISR
+controller=ISR
+add_core=ISR
+add_core=X16
+trade_goods = grain
+life_rating = 45
+fort = 1

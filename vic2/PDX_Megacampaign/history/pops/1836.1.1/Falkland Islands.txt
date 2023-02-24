@@ -1,0 +1,51 @@
+2131 = {
+	soldiers=
+	{
+		culture = southern_african_andes_superregion_culture
+		religion = shamanism
+		size= 313
+	}
+
+	artisans=
+	{
+		culture = southern_african_andes_superregion_culture
+		religion = shamanism
+		size= 1253
+	}
+
+	clergymen=
+	{
+		culture = southern_african_andes_superregion_culture
+		religion = shamanism
+		size= 203
+	}
+
+	bureaucrats=
+	{
+		culture = southern_african_andes_superregion_culture
+		religion = shamanism
+		size= 68
+	}
+
+	officers=
+	{
+		culture = southern_african_andes_superregion_culture
+		religion = shamanism
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = southern_african_andes_superregion_culture
+		religion = shamanism
+		size= 395
+	}
+
+	farmers=
+	{
+		culture = southern_african_andes_superregion_culture
+		religion = shamanism
+		size= 29076
+	}
+
+}

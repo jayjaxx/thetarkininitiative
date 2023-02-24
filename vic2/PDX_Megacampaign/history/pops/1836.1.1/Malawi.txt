@@ -1,0 +1,137 @@
+2066 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 3958
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1303
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 9601
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 446
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 192
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 864
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 52099
+	}
+
+}
+2067 = {
+	aristocrats=
+	{
+		culture = chewa
+		religion = animist
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = chewa
+		religion = animist
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = chewa
+		religion = animist
+		size= 950
+	}
+
+	soldiers=
+	{
+		culture = chewa
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = chewa
+		religion = animist
+		size= 17300
+	}
+
+	slaves=
+	{
+		culture = chewa
+		religion = animist
+		size= 4000
+	}
+
+	aristocrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = animist
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = animist
+		size= 850
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = animist
+		size= 15125
+	}
+
+}

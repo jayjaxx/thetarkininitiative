@@ -1,0 +1,7 @@
+owner=ISR
+controller=ISR
+add_core=ISR
+add_core=X16
+trade_goods = cotton
+life_rating = 40
+fort = 1

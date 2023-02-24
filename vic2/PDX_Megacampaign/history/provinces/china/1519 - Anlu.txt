@@ -1,0 +1,7 @@
+owner=X20
+controller=X20
+add_core=CHI
+add_core=CXI
+add_core=X20
+trade_goods = tea
+life_rating = 32

@@ -1,0 +1,9 @@
+owner=X08
+controller=X08
+add_core=KHA
+add_core=KRC
+add_core=MGL
+add_core=X08
+trade_goods = timber
+life_rating = 32
+fort = 1

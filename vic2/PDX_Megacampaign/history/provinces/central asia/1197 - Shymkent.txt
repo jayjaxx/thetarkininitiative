@@ -1,0 +1,8 @@
+owner=GOL
+controller=GOL
+add_core=GOL
+add_core=GOL
+add_core=KHA
+add_core=MGL
+trade_goods = grain
+life_rating = 35

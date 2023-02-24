@@ -1,0 +1,13 @@
+owner=PRG
+controller=PRG
+add_core=PEU
+add_core=PRG
+trade_goods = wool
+life_rating = 31
+terrain = savanna
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

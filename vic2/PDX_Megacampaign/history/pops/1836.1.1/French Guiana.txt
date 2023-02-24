@@ -1,0 +1,144 @@
+2241 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 992
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 156
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 6145
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 1179
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 141
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 144
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 6
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 886
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 4466
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 910
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 108
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 111
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 5
+	}
+
+}

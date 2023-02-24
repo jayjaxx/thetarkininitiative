@@ -1,0 +1,8 @@
+owner=POM
+controller=POM
+add_core=NOR
+add_core=POM
+add_core=SCA
+trade_goods = timber
+life_rating = 35
+naval_base = 1

@@ -1,0 +1,9 @@
+owner=GOL
+controller=GOL
+add_core=GOL
+add_core=GEO
+add_core=GOL
+trade_goods = fish
+life_rating = 35
+naval_base = 1
+fort = 1

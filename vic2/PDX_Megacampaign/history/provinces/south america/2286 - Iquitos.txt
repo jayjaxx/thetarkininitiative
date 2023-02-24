@@ -1,0 +1,11 @@
+owner=CLM
+controller=CLM
+add_core=CLM
+trade_goods = rubber
+life_rating = 31
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

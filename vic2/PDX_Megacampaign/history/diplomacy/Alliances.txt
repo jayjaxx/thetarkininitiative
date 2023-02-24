@@ -1,0 +1,112 @@
+alliance=
+{
+	first="BRZ"
+	second="CLM"
+	start_date="1685.8.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CAL"
+	second="CAS"
+	start_date="1755.10.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CLM"
+	second="MEX"
+	start_date="1714.1.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GOL"
+	second="ISR"
+	start_date="1714.12.18"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="HAI"
+	second="CLM"
+	start_date="1685.6.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="HAI"
+	second="MEX"
+	start_date="1714.1.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="JER"
+	second="CAN"
+	start_date="1655.1.7"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LOT"
+	second="SPA"
+	start_date="1664.6.10"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LOT"
+	second="IRE"
+	start_date="1698.11.14"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MLY"
+	second="JAP"
+	start_date="1459.2.14"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PLC"
+	second="BRG"
+	start_date="1659.4.27"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="POM"
+	second="HUN"
+	start_date="1752.2.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="USA"
+	second="CAN"
+	start_date="1663.2.20"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ISR"
+	second="BRG"
+	start_date="1444.11.11"
+	end_date="1936.1.1"
+}
+

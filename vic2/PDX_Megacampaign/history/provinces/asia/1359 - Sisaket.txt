@@ -1,0 +1,7 @@
+owner=CAM
+controller=CAM
+add_core=CAM
+add_core=IDO
+add_core=LUA
+trade_goods = cattle
+life_rating = 35

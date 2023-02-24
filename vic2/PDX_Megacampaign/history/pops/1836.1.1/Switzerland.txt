@@ -1,0 +1,1089 @@
+603 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 998
+	}
+
+	craftsmen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1268
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 2527
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 228
+	}
+
+	clerks=
+	{
+		culture = swiss
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 38
+	}
+
+	capitalists=
+	{
+		culture = swiss
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 601
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 30385
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 5359
+	}
+
+	craftsmen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 6803
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 29655
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2670
+	}
+
+	clerks=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 362
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 383
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 446
+	}
+
+	capitalists=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 7048
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 140908
+	}
+
+}
+604 = {
+	soldiers=
+	{
+		culture = french
+		religion = jewish
+		size= 2125
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = jewish
+		size= 3233
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = jewish
+		size= 300
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = jewish
+		size= 42
+	}
+
+	officers=
+	{
+		culture = french
+		religion = jewish
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = jewish
+		size= 776
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = jewish
+		size= 39643
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 6091
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 23941
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2223
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 308
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 496
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 5746
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 93615
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1425
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 2168
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 201
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 520
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 26588
+	}
+
+}
+605 = {
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 8076
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 24580
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2282
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 316
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 509
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 4424
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 135383
+	}
+
+}
+606 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 771
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1927
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 179
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 231
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 24372
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1538
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 9616
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 893
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 124
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 144
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1154
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 41451
+	}
+
+}
+607 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 1366
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 1039
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 27036
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = jewish
+		size= 422
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = jewish
+		size= 1682
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = jewish
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = jewish
+		size= 22
+	}
+
+	officers=
+	{
+		culture = french
+		religion = jewish
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = jewish
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = jewish
+		size= 6659
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2495
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 10316
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 958
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 133
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 214
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1238
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 38893
+	}
+
+}
+608 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 840
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 639
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 16624
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = jewish
+		size= 260
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = jewish
+		size= 1034
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = jewish
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = jewish
+		size= 13
+	}
+
+	officers=
+	{
+		culture = french
+		religion = jewish
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = jewish
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = jewish
+		size= 4095
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1534
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 6343
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 589
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 82
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 131
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 761
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 23914
+	}
+
+}
+609 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 825
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 1032
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 27374
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = jewish
+		size= 1282
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = jewish
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = jewish
+		size= 16
+	}
+
+	officers=
+	{
+		culture = french
+		religion = jewish
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = jewish
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = jewish
+		size= 1892
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1107
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 7851
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 729
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 101
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 118
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 942
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 28700
+	}
+
+}
+611 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 676
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1690
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 406
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 21167
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1320
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 8289
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 770
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 107
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 124
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1989
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 34537
+	}
+
+}
+2568 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 710
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1776
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 426
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 22241
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1387
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 8709
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 809
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 112
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2090
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 36291
+	}
+
+}

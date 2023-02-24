@@ -1,0 +1,7 @@
+owner=LTN
+controller=LTN
+add_core=FRA
+add_core=LTN
+trade_goods = tobacco
+life_rating = 35
+naval_base = 1

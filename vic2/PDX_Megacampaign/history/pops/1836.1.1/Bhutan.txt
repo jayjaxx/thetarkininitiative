@@ -1,0 +1,58 @@
+1329 = {
+	slaves=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 13176
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 4128
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 2948
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 480
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 74
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 118
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 620
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 52158
+	}
+
+}

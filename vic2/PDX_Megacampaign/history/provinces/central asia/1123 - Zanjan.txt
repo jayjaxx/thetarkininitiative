@@ -1,0 +1,6 @@
+owner=ISR
+controller=ISR
+add_core=AZB
+add_core=ISR
+trade_goods = cattle
+life_rating = 35

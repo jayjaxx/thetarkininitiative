@@ -1,0 +1,6 @@
+owner=X12
+controller=X12
+add_core=FRA
+add_core=X12
+trade_goods = opium
+life_rating = 35

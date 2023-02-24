@@ -1,0 +1,8 @@
+owner=HDU
+controller=HDU
+add_core=DLH
+add_core=HDU
+add_core=HND
+add_core=PNJ
+trade_goods = cattle
+life_rating = 32

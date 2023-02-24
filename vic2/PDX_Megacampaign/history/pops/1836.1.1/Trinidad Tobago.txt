@@ -1,0 +1,200 @@
+2237 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2236
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 157
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 408
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 32
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 17874
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 902
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 379
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 67
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 36
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 547
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1971
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 55
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 360
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 15756
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 743
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 312
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 55
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 450
+	}
+
+}

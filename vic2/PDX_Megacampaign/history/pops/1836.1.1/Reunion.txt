@@ -1,0 +1,114 @@
+2126 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 31209
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 543
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 14691
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 7214
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 649
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 335
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 165
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 66
+	}
+
+	slaves=
+	{
+		culture = nguni
+		religion = catholic
+		size= 2323
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = catholic
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = catholic
+		size= 1002
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = catholic
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = catholic
+		size= 531
+	}
+
+}

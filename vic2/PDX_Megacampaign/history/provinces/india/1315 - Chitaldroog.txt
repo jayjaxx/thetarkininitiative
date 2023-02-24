@@ -1,0 +1,9 @@
+owner=X21
+controller=HDU
+add_core=HND
+add_core=MYS
+add_core=X21
+add_core=XMA
+trade_goods = coffee
+life_rating = 32
+fort = 1

@@ -1,0 +1,11 @@
+owner=POM
+controller=POM
+add_core=GOC
+add_core=HND
+add_core=X21
+add_core=XMA
+add_core=POM
+trade_goods = fish
+life_rating = 32
+fort = 1
+colonial=2

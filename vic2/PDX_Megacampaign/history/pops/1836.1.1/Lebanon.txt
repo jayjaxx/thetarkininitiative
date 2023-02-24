@@ -1,0 +1,659 @@
+912 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 425
+	}
+
+	craftsmen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 2587
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 323
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 35
+	}
+
+	clerks=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 7
+	}
+
+	capitalists=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 5785
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 433
+	}
+
+	craftsmen=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 2635
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 982
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 105
+	}
+
+	clerks=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 7
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 20
+	}
+
+	capitalists=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 5005
+	}
+
+	soldiers=
+	{
+		culture = israeli
+		religion = jewish
+		size= 484
+	}
+
+	craftsmen=
+	{
+		culture = israeli
+		religion = jewish
+		size= 2948
+	}
+
+	artisans=
+	{
+		culture = israeli
+		religion = jewish
+		size= 2779
+	}
+
+	clergymen=
+	{
+		culture = israeli
+		religion = jewish
+		size= 298
+	}
+
+	clerks=
+	{
+		culture = israeli
+		religion = jewish
+		size= 335
+	}
+
+	bureaucrats=
+	{
+		culture = israeli
+		religion = jewish
+		size= 20
+	}
+
+	officers=
+	{
+		culture = israeli
+		religion = jewish
+		size= 58
+	}
+
+	capitalists=
+	{
+		culture = israeli
+		religion = jewish
+		size= 131
+	}
+
+	aristocrats=
+	{
+		culture = israeli
+		religion = jewish
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = israeli
+		religion = jewish
+		size= 3307
+	}
+
+}
+913 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 526
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 362
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 10426
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 536
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 1098
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 9
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 9656
+	}
+
+	soldiers=
+	{
+		culture = israeli
+		religion = jewish
+		size= 599
+	}
+
+	artisans=
+	{
+		culture = israeli
+		religion = jewish
+		size= 3106
+	}
+
+	clergymen=
+	{
+		culture = israeli
+		religion = jewish
+		size= 300
+	}
+
+	bureaucrats=
+	{
+		culture = israeli
+		religion = jewish
+		size= 25
+	}
+
+	officers=
+	{
+		culture = israeli
+		religion = jewish
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = israeli
+		religion = jewish
+		size= 206
+	}
+
+	farmers=
+	{
+		culture = israeli
+		religion = jewish
+		size= 8317
+	}
+
+}
+914 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 363
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 277
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 7206
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 370
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 840
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 6676
+	}
+
+	soldiers=
+	{
+		culture = israeli
+		religion = jewish
+		size= 414
+	}
+
+	artisans=
+	{
+		culture = israeli
+		religion = jewish
+		size= 2377
+	}
+
+	clergymen=
+	{
+		culture = israeli
+		religion = jewish
+		size= 255
+	}
+
+	bureaucrats=
+	{
+		culture = israeli
+		religion = jewish
+		size= 17
+	}
+
+	officers=
+	{
+		culture = israeli
+		religion = jewish
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = israeli
+		religion = jewish
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = israeli
+		religion = jewish
+		size= 5749
+	}
+
+}
+915 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 412
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 268
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 8178
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 420
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 812
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 7
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = jewish
+		size= 7575
+	}
+
+	soldiers=
+	{
+		culture = israeli
+		religion = jewish
+		size= 470
+	}
+
+	artisans=
+	{
+		culture = israeli
+		religion = jewish
+		size= 2296
+	}
+
+	clergymen=
+	{
+		culture = israeli
+		religion = jewish
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = israeli
+		religion = jewish
+		size= 19
+	}
+
+	officers=
+	{
+		culture = israeli
+		religion = jewish
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = israeli
+		religion = jewish
+		size= 162
+	}
+
+	farmers=
+	{
+		culture = israeli
+		religion = jewish
+		size= 6524
+	}
+
+}

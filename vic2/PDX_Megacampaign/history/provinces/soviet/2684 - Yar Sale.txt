@@ -1,0 +1,5 @@
+owner=GOL
+controller=GOL
+add_core=GOL
+trade_goods = timber
+life_rating = 10

@@ -1,0 +1,9 @@
+owner=JAP
+controller=JAP
+add_core=CHI
+add_core=CWU
+add_core=JAP
+trade_goods = cotton
+life_rating = 32
+naval_base = 1
+colonial=2

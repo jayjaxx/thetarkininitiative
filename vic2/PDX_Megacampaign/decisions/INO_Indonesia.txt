@@ -1,0 +1,171 @@
+political_decisions = {
+
+#Pancasila (pronounced pan-sha-si-la)
+pancasila = {
+    picture = indoctrinal_education_communist
+    potential = {
+        NOT = { has_country_flag = pancasila }
+        tag = INO
+    }
+
+    allow = {
+        ideological_thought = 1
+    }
+
+    effect = {
+        prestige = 15
+        any_pop = { consciousness = 2 }
+        any_pop = { militancy = 0.5 }
+        add_country_modifier = { name = "pancasila" duration = 3650 }
+        set_country_flag = pancasila
+    }
+
+    ai_will_do = { factor = 1 }
+
+}
+
+#Indonesia Raya
+indonesia_raya = {
+    picture = map_east_indies
+    potential = {
+        NOT = {    has_country_flag = indonesia_raya }
+        tag = INO
+        OR = {
+            is_greater_power = yes
+            is_secondary_power = yes
+        }
+        prestige = 70
+        military_score = 30
+    }
+
+    allow = {
+        war = no
+        is_vassal = no
+        nationalism_n_imperialism = 1
+        OR = {
+            war_policy = jingoism
+            war_policy = pro_military
+        }
+    }
+
+    effect = {
+        set_country_flag = indonesia_raya
+        prestige = 15
+        badboy = 2
+        BRU_1394 = { add_core = INO } #West Borneo
+        BRU_1396 = { add_core = INO } #Sabah/North Borneo
+        NET_1398 = { add_core = INO } #Sumatra
+        NET_1401 = { add_core = INO } #Siak/Middle Sumatra
+        ATJ_1405 = { add_core = INO } #Aceh/North Sumatra
+        NET_1413 = { add_core = INO } #Western Java
+        NET_1418 = { add_core = INO } #Eastern Java
+        NET_1423 = { add_core = INO } #East Borneo
+        NET_1426 = { add_core = INO } #South Borneo
+        BAL_1438 = { add_core = INO } #Sunda Islands
+        NET_1446 = { add_core = INO } #Timor
+        NET_1447 = { add_core = INO } #Moluccas
+        NET_1449 = { add_core = INO } #Celebes
+        NET_1451 = { add_core = INO } #Western New Guinea
+        AST_2528 = { add_core = INO } #Southern New Guina
+        GER_2530 = { add_core = INO } #Northern New Guinea
+        any_country = {
+            limit = {
+                OR = {
+                    neighbour = THIS
+                    any_owned_province = { is_core = INO }
+                }
+            }
+            relation = { who = THIS value = -200 }
+        }
+    }
+
+    ai_will_do = { factor = 0 }
+}
+india_gets_cores = {
+    picture = map_east_indies
+    potential = {
+        NOT = {    has_country_flag = india_gets_cores1 }
+        tag = MLY
+    }
+
+    allow = {
+        tag = MLY
+        }
+
+    effect = {
+        set_country_flag = india_gets_cores1
+        1294 = { add_core = HND } 
+        1247 = { add_core = HND }
+        1250 = { add_core = HND }
+        1251 = { add_core = HND }
+        1254 = { add_core = HND }
+        1258 = { add_core = HND }
+        2566 = { add_core = HND }
+        1260 = { add_core = HND }
+        1495 = { add_core = CHI }
+        2632 = { add_core = CHI }
+        1504 = { add_core = CHI }
+        1501 = { add_core = CHI }
+        1493 = { add_core = CHI }
+        1498 = { add_core = CHI }
+        1496 = { add_core = CHI }
+        1603 = { add_core = CHI }
+        1602 = { add_core = CHI }
+        1532 = { add_core = CHI }
+        1535 = { add_core = CHI }
+        1586 = { add_core = CHI }
+        1488 = { add_core = CHI }
+        1489 = { add_core = CHI }
+        1582 = { add_core = CHI }
+        1557 = { add_core = CHI }
+        1556 = { add_core = CHI }
+        1558 = { add_core = CHI }
+        1490 = { add_core = CHI }
+        1146 = { remove_core = TUR }
+        1294 = { remove_core = TUR }
+        1251 = { remove_core = TUR }
+        1250 = { remove_core = TUR }
+        1254 = { remove_core = TUR }
+        2566 = { remove_core = TUR }
+        1258 = { remove_core = TUR }
+        1326 = { remove_core = TUR }
+        889 = { remove_core = TUR }
+    }
+
+    ai_will_do = { factor = 1 }
+}
+China_fix = {
+    picture = map_east_indies
+    potential = {
+        NOT = {    has_country_flag = india_gets_cores2 }
+        tag = INO
+    }
+
+    allow = {
+        tag = INO
+        }
+
+    effect = {
+        set_country_flag = india_gets_cores2
+        1534 = { add_core = CHI }
+        1480 = { remove_core = CHI }
+        1479 = { remove_core = CHI }
+        1481 = { remove_core = CHI }
+        1555 = { remove_core = CHI }
+        1623 = { remove_core = CHI }
+        1554 = { remove_core = CHI }
+        1082 = { remove_core = CHI }
+        1083 = { remove_core = CHI }
+        2617 = { remove_core = CHI }
+        1552 = { remove_core = CHI }
+        1553 = { remove_core = CHI }
+        1085 = { remove_core = CHI }
+        2697 = { remove_core = CHI }
+        1081 = { remove_core = CHI }
+        1080 = { remove_core = CHI }
+        1371 = { remove_core = CHI }
+    }
+
+    ai_will_do = { factor = 1 }
+}
+}

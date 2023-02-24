@@ -1,0 +1,90 @@
+capital = 240
+primary_culture = french_canadian
+culture = dixie
+culture = texan
+culture = yankee
+culture = muskogean
+culture = zzz_religion_catholic
+religion = catholic
+government = presidential_dictatorship
+plurality = 0
+nationalvalue = nv_liberty
+literacy = 0.75
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=yes_slavery
+vote_franschise=wealth_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=yes_meeting
+press_rights=censored_press
+trade_unions=all_trade_unions
+political_parties=gerrymandering
+
+ruling_party = USA_liberal_2
+upper_house = 
+{
+	fascist = 0
+	liberal = 14
+	conservative = 82
+	reactionary = 4
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 1.40561
+nonstate_consciousness= 0.0164457
+
+# Technologies
+
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+military_staff_system = 1
+army_command_principle = 1
+
+post_nelsonian_thought = 1
+clipper_design = 1
+naval_design_bureaus = 1
+alphabetic_flag_signaling = 1
+the_command_principle = 1
+
+private_banks = 1
+no_standard = 1
+early_classical_theory_and_critique = 1
+freedom_of_trade = 1
+guild_based_production = 1
+
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+malthusian_thought = 1
+enlightenment_thought = 1
+introspectionism = 1
+
+piston_steam_engine = 1
+mechanical_production = 1
+hot_blast = 1
+experimental_railroad = 1
+basic_chemistry = 1
+prestige=7.66876
+oob = "USA_OOB.txt"
+set_country_flag = new_world_nation
+set_country_flag = post_colonial_country
+set_country_flag = postcol_1
+set_country_flag = religi
+decision = USA_1836_setup
+set_country_flag = vic2_country_USA
+set_country_flag = eu4_country_USA

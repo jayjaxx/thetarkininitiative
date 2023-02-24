@@ -1,0 +1,804 @@
+political_decisions = {
+    latin_consolidation = {
+        picture = cavours_diplomacy
+    
+        potential = {
+            OR = {
+                tag = LTN
+                tag = SPQ
+            }
+            NOT = {
+                has_country_flag = latin_consolidation1
+            }
+        }
+        allow = {
+            year = 1890
+        }
+        effect = {
+            set_country_flag = latin_consolidation1
+            any_country = {
+                limit = {
+                    vassal_of = SPQ
+                }
+                annex_to = THIS
+            }
+        }
+    }
+    annex_manchuria_new = {
+        picture = enact_muhammad_alis_reforms
+        potential = {
+            NOT = {
+                has_country_flag = annex_manchurianew2
+            }
+            civilized = yes
+            tag = JAP
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            number_of_states = 5
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+            war = no
+            year = 1890
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+        }
+
+
+        effect = {
+            set_country_flag = annex_manchurianew2
+            any_country = {
+                limit = {
+                    tag = MCK # Khorasan
+                }
+                annex_to = THIS
+            }
+            1555 = { add_core = JAP }
+            1554 = { add_core = JAP }
+            1082 = { add_core = JAP }
+            1083 = { add_core = JAP }
+            2617 = { add_core = JAP }
+            1552 = { add_core = JAP }
+            1553 = { add_core = JAP }
+            1002 = { add_core = JAP }
+            1083= { add_core = JAP }
+            1084 = { add_core = JAP }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    annex_transvaal = {
+        picture = enact_muhammad_alis_reforms
+        potential = {
+            NOT = {
+                has_country_flag = annex_transvaal
+            }
+            tag = ZUL
+        }
+        allow = {
+        }
+        effect = {
+            set_country_flag = annex_transvaal
+            any_country = {
+                limit = {
+                    tag = TRN # Khorasan
+                }
+                annex_to = THIS
+            }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    annex_china = {
+        picture = enact_muhammad_alis_reforms
+        potential = {
+            tag = JAP
+            year = 1890
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+            war = no
+            year = 1900
+            has_country_flag = japan_tighten_controll_china
+        }
+
+
+        effect = {
+            set_country_flag = annex_china
+            any_country = {
+                limit = {
+                    vassal_of = JAP
+                }
+                annex_to = THIS
+            }
+            country_event = 252021
+
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }  
+    japan_tighten_controll_china = {
+        picture = enact_muhammad_alis_reforms
+        potential = {
+            NOT = {
+                has_country_flag = japan_tighten_controll_china
+            }
+            tag = JAP
+            year = 1890
+        }
+        allow = {
+            year = 1900
+        }
+        effect = {
+            set_country_flag = japan_tighten_controll_china
+            set_country_flag = japan_tighten_controll
+            set_global_flag = japan_tighten_controll
+            add_country_modifier = {
+                name = japanese_china1
+                duration = -1
+            }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }  
+    latin_empire_upgrade = {
+		picture = suezcanal
+		potential = {
+			has_country_flag = vic2_country_LTN
+			NOT = { exists = BYZ }
+			NOT = { exists = SPQ }
+			nationalism_n_imperialism = 1
+		}	
+		allow = {
+			war = no
+			prestige = 5
+
+						#Duchy of Romagna
+						PAP_741 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+						#Duchy of Venice
+						744 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+						#Duchy of Lazio
+						749 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+						750 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+						#Duchy of Campania
+						2567 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+						754 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+						#Duchy of Apulia
+						756 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+						758 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+						#Duchy of Tunis
+						#Duchy of Sicily
+						SIC_763 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+						#Duchy of Dalmatia
+						#Duchy of Thrace
+						TUR_860 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+						#Duchy of Hellas
+						834 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+						835 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+						#Duchy of Alexandria
+			
+						#Duchy of Jerusalem
+			
+		}
+		
+		effect = {
+			all_core = { remove_core = THIS add_core = SPQ }
+			any_owned = {
+				add_core = SPQ
+				remove_core = BYZ
+				remove_core = HLR
+				remove_core = LTN
+				remove_core = ITA
+			}
+			change_tag = SPQ
+			capital = 749
+			add_accepted_culture = latin
+			add_accepted_culture = north_italian #Byzantines
+			any_country = {
+				limit = {
+					in_sphere = THIS
+					NOT = { has_country_flag = post_colonial_country }
+				}
+				country_event = 11101
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+    call_geneva_convention = {
+        picture = call_geneva_convention
+        potential = {
+            tag = BRG
+            owns = 607
+            NOT = {
+                has_global_flag = geneva_convention_held
+            }
+        }
+
+        allow = {
+            any_greater_power = {
+                war_exhaustion = 5
+            }
+            empiricism = 1
+        }
+
+        effect = {
+            add_country_modifier = {
+                name = signed_the_geneva_convention
+                duration = -1
+            }
+            set_global_flag = geneva_convention_held
+            prestige = 10
+        }
+        }
+        build_gotthard_tunnel = {
+        picture = build_gotthard_tunnel
+            potential = {
+                tag = BRG
+                owns = 606
+                NOT = {
+                    has_country_flag = gotthard_tunnel_built
+                }
+            }
+    
+            allow = {
+                invention = machine_tools
+                steel_railroad = 1
+                money = 10000
+            }
+    
+            effect = {
+                money = -10000
+                606 = { infrastructure = 4 }
+                prestige = 5
+                set_country_flag = gotthard_tunnel_built
+            }
+            ai_will_do = { factor = 1 }
+        }    
+        swiss_banking_and_industry = {
+            picture = institute_central_bank
+            potential = {
+                tag = BRG
+                NOT = { has_country_modifier = swiss_banking }
+            }
+    
+            allow = {
+                NOT = { unemployment = 0.1 }
+                has_country_modifier = central_bank_established
+                industrial_score = 70
+                modern_central_bank_system = 1
+                OR = {
+                    management_strategy = 1
+                    neoclassical_theory = 1
+                    economic_responsibility = 1
+                }
+            }
+    
+            effect = {
+                add_country_modifier = { name = swiss_banking duration = -1 }
+            }
+            ai_will_do = { factor = 1 }
+        }
+        Reorg_our_puppets = {
+            picture = enact_muhammad_alis_reforms
+            potential = {
+                NOT = {
+                    has_country_flag = annex_manchuria1
+                }
+                civilized = yes
+                primary_culture = polish
+                OR = {
+                    is_greater_power = yes
+                    is_secondary_power = yes
+                }
+                number_of_states = 5
+            }
+            allow = {
+                year = 1890
+                war = no
+                OR = {
+                    is_greater_power = yes
+                    is_secondary_power = yes
+                }
+                has_unclaimed_cores = no
+            }
+    
+    
+            effect = {
+                set_country_flag = annex_manchuria1
+                any_country = {
+                    limit = {
+                        vassal_of = PLC
+                    }
+                    annex_to = THIS
+                }
+                    972 = { add_core = PLC }
+                    974 = { add_core = PLC }
+                    975 = { add_core = PLC }
+                    976 = { add_core = PLC }
+                    979 = { add_core = PLC }
+                    980 = { add_core = PLC }
+                    1019 = { add_core = PLC }
+                    678 = { add_core = PLC }
+                    676 = { add_core = PLC }
+                    673 = { add_core = PLC }
+                    672 = { add_core = PLC }
+                    670 = { add_core = PLC }
+                    663 = { add_core = PLC }
+                    671 = { add_core = PLC }
+                    677 = { add_core = PLC }
+                    667 = { add_core = PLC }
+                    978 = { add_core = PLC }
+            }
+            ai_will_do = {
+                factor = 1
+            }
+        }
+        Integrate_Norway = {
+            picture = enact_muhammad_alis_reforms
+            potential = {
+                NOT = {
+                    has_country_flag = annex_Norway
+                }
+                civilized = yes
+                tag = NGF
+                OR = {
+                    is_greater_power = yes
+                    is_secondary_power = yes
+                }
+                number_of_states = 5
+            }
+            allow = {
+                year = 1890
+                war = no
+                OR = {
+                    is_greater_power = yes
+                    is_secondary_power = yes
+                }
+            }
+    
+    
+            effect = {
+                set_country_flag = annex_Norway
+                any_country = {
+                    limit = {
+                        tag = NOR
+                    }
+                    annex_to = THIS
+                }
+                    312 = { add_core = NGF }
+                    311 = { add_core = NGF }
+                    310 = { add_core = NGF }
+                    309 = { add_core = NGF }
+                    308 = { add_core = NGF }
+                    312 = { add_core = NGF }
+                    312 = { add_core = NGF }
+            }
+            ai_will_do = {
+                factor = 1
+            }
+        }  
+        manifest_destiny = {
+            potential = {
+                tag = USA
+                 NOT = { USA = { owns = 139 }}
+                 NOT = {
+                    has_country_flag = hasmanifestdestiny
+                }
+            }
+            allow = {
+                war = no
+                idealism = 1
+                state_n_government = 1
+                NOT = { truce_with = MEX }
+                NOT = { war_policy = pacifism }
+                NOT = { MEX = { any_owned_province = { country_units_in_province = USA } } }
+            }
+            effect = {
+                set_country_flag = hasmanifestdestiny
+                random_list = {
+                    0 = { }
+                    0 = { badboy = 1 }
+                    0 = { badboy = 2 }
+                    100 = { badboy = 10 }
+                }
+                139 = { add_core = USA }
+                141 = { add_core = USA }
+                142 = { add_core = USA }
+                143 = { add_core = USA }
+                144 = { add_core = USA }
+                145 = { add_core = USA }
+                131 = { add_core = USA }
+                139 = { add_core = USA }
+                125 = { add_core = USA }
+                126 = { add_core = USA }
+                127 = { add_core = USA }
+                128 = { add_core = USA }
+                128 = { add_core = USA }
+                130 = { add_core = USA }
+                129 = { add_core = USA }            
+                89 = { life_rating = 5 } #Los Angeles
+                90 = { life_rating = 2 } #San Diego
+                104 = { life_rating = 5 } #San Francisco
+                84 = { life_rating = 4 } #Sacramento
+                87 = { life_rating = 3 } #Monterey
+                106 = { life_rating = 3 } #Denver
+                43 = { life_rating = 4 } #Dallas
+                132 = { life_rating = 2 } #Houston
+                133 = { life_rating = 1 } #Austin
+                137 = { life_rating = 4 } #San Antonio
+                136 = { life_rating = 2 } #El Paso
+                relation = { who = MEX value = -200 }
+                diplomatic_influence = { who = MEX value = -200 }
+                leave_alliance = MEX
+                random_country = {
+                    limit = {
+                        tag = MEX
+                        vassal_of = THIS
+                    }
+                    THIS = { release_vassal = MEX }
+                }
+                random_country = {
+                    limit = {
+                        is_our_vassal = MEX
+                        NOT = { tag = THIS }
+                    }
+                    relation = { who = THIS value = -200 }
+                    leave_alliance = THIS
+                }
+                random_country = {
+                    limit = {
+                        tag = MEX
+                        any_owned_province = {
+                            OR = {
+                                region = MEX_85
+                                region = TEX_132
+                                region = MEX_103
+                                region = MEX_94
+                                region = MEX_97
+                                region = MEX_100
+                            }
+                        }
+                    }
+                 
+                }
+                any_country = {
+                    limit = {
+                        is_greater_power = yes
+                        NOT = { tag = THIS }
+                    }
+                    diplomatic_influence = { who = MEX value = -100 }
+                }
+                any_pop = {
+                    dominant_issue = {
+                        factor = 0.05
+                        value = jingoism
+                    }
+                    consciousness = 2
+                }
+            }
+        }
+        manifest_destiny2 = {
+            potential = {
+                tag = USA
+                NOT = { USA = { owns = 43 }}
+                NOT = {
+                    has_country_flag = hasmanifestdestiny2
+                }
+            }
+            allow = {
+                war = no
+                idealism = 1
+                state_n_government = 1
+                NOT = { truce_with = MEX }
+                NOT = { war_policy = pacifism }
+                NOT = { MEX = { any_owned_province = { country_units_in_province = USA } } }
+                USA = {
+                    owns = 139
+                    owns = 141
+                    owns = 142
+                    owns = 143
+                    owns = 144
+                    owns = 145
+                    owns = 131
+                    owns = 130                
+                    owns = 125
+                    owns = 126
+                    owns = 127
+                    owns = 128
+                    owns = 129
+                }
+            }
+            effect = {
+                set_country_flag = hasmanifestdestiny2
+                random_list = {
+                    0 = { }
+                    0 = { badboy = 1 }
+                    0 = { badboy = 2 }
+                    100 = { badboy = 5 }
+                }
+                43 = { add_core = USA }
+                132 = { add_core = USA }
+                133 = { add_core = USA }
+                134 = { add_core = USA }
+                135 = { add_core = USA }
+                137 = { add_core = USA }
+                138 = { add_core = USA }
+    
+                any_pop = {
+                    dominant_issue = {
+                        factor = 0.05
+                        value = jingoism
+                    }
+                    consciousness = 2
+                }
+            }
+        }
+        manifest_destiny3 = {
+            potential = {
+                tag = USA
+                NOT = { USA = { owns = 103 }}
+                NOT = {
+                    has_country_flag = hasmanifestdestiny3
+                }
+            }
+            allow = {
+                war = no
+                idealism = 1
+                state_n_government = 1
+                NOT = { truce_with = MEX }
+                NOT = { war_policy = pacifism }
+                NOT = { MEX = { any_owned_province = { country_units_in_province = USA } } }
+                            USA = {
+                    owns = 43
+                    owns = 132
+                    owns = 133
+                    owns = 134
+                    owns = 135
+                    owns = 137
+                    owns = 138
+                }
+            }
+            effect = {
+                set_country_flag = hasmanifestdestiny3
+                random_list = {
+                    0 = { }
+                    0 = { badboy = 1 }
+                    0 = { badboy = 2 }
+                    100 = { badboy = 5 }
+                }
+                103 = { add_core = USA }
+                106 = { add_core = USA }
+                109 = { add_core = USA }
+                105 = { add_core = USA }
+                2148 = { add_core = USA }
+                2662= { add_core = USA }
+                108 = { add_core = USA }
+                99 = { add_core = USA }
+                107 = { add_core = USA }
+                108 = { add_core = USA }
+                110 = { add_core = USA }
+                94 = { add_core = USA }
+                95 = { add_core = USA }
+                96 = { add_core = USA }
+                97 = { add_core = USA }
+                98 = { add_core = USA }
+                136 = { add_core = USA }
+    
+                any_pop = {
+                    dominant_issue = {
+                        factor = 0.05
+                        value = jingoism
+                    }
+                    consciousness = 2
+                }
+            }
+        }
+        manifest_destiny4 = {
+            potential = {
+                tag = USA
+                NOT = { USA = { owns = 122 }}
+                NOT = {
+                    has_country_flag = hasmanifestdestiny4
+                }
+            }
+            allow = {
+                war = no
+                idealism = 1
+                state_n_government = 1
+                NOT = { truce_with = MEX }
+                NOT = { war_policy = pacifism }
+                NOT = { MEX = { any_owned_province = { country_units_in_province = USA } } }
+                            USA = {
+                    owns = 103
+                    owns = 106
+                    owns = 109
+                    owns = 105
+                    owns = 2148
+                    owns = 2662
+                    owns = 108
+                    owns = 99
+                    owns = 107                
+                    owns = 108
+                    owns = 110
+                    owns = 94
+                    owns = 95
+                    owns = 96
+                    owns = 97
+                    owns = 98
+                }
+            }
+            effect = {
+                set_country_flag = hasmanifestdestiny4
+                            random_list = {
+                    0 = { }
+                    0 = { badboy = 1 }
+                    0 = { badboy = 2 }
+                    100 = { badboy = 5 }
+                }
+                122 = { add_core = USA }
+                123 = { add_core = USA }
+                124 = { add_core = USA }
+                78 = { add_core = USA }
+                79 = { add_core = USA }
+                80 = { add_core = USA }
+                81 = { add_core = USA }
+                82 = { add_core = USA }
+                83 = { add_core = USA }
+                91 = { add_core = USA }
+                91 = { add_core = USA }
+                93 = { add_core = USA }
+                111 = { add_core = USA }
+                112 = { add_core = USA }
+                113 = { add_core = USA }
+                114 = { add_core = USA }
+                92 = { add_core = USA }
+                121 = { add_core = USA }
+                any_pop = {
+                    dominant_issue = {
+                        factor = 0.05
+                        value = jingoism
+                    }
+                    consciousness = 2
+                }
+            }
+        }
+        manifest_destiny5 = {
+            potential = {
+                tag = USA
+                NOT = { USA = { owns = 84 }}
+                NOT = {
+                    has_country_flag = hasmanifestdestiny5
+                }
+            }
+            allow = {
+                war = no
+                idealism = 1
+                state_n_government = 1
+                NOT = { truce_with = MEX }
+                NOT = { war_policy = pacifism }
+                NOT = { MEX = { any_owned_province = { country_units_in_province = USA } } }
+                USA = {
+                    owns = 122
+                    owns = 123
+                    owns = 124
+                    owns = 78
+                    owns = 79
+                    owns = 80
+                    owns = 81
+                    owns = 82
+                    owns = 83                
+                    owns = 91
+                    owns = 92
+                    owns = 93
+                    owns = 111
+                    owns = 112
+                    owns = 113
+                    owns = 114
+                }
+            }
+            effect = {
+                set_country_flag = hasmanifestdestiny5
+                100 = { add_core = USA }
+                101 = { add_core = USA }
+                102 = { add_core = USA }
+                84 = { add_core = USA }
+                85 = { add_core = USA }
+                86 = { add_core = USA }
+                87 = { add_core = USA }
+                88 = { add_core = USA }
+                89 = { add_core = USA }
+                90 = { add_core = USA }
+                126 = { add_core = USA }
+                127 = { add_core = USA }
+                128 = { add_core = USA }
+                104 = { add_core = USA }
+                any_pop = {
+                    dominant_issue = {
+                        factor = 0.05
+                        value = jingoism
+                    }
+                    consciousness = 2
+                }
+            }
+        }
+        free_crimeans = {
+            picture = annals_of_the_fulani_jihad
+            potential = {
+                    tag = GOL
+                    AI = no
+                    NOT = {has_country_flag = freeCrimeans}
+                }
+            allow = {
+                war = no
+                AI = no
+                nationalism_n_imperialism = 1
+            }
+            effect = {
+                set_country_flag = freeCrimeans
+                1019 = { add_core = GOL }
+                980 = { add_core = GOL }
+                979 = { add_core = GOL }
+                976 = { add_core = GOL }
+                975 = { add_core = GOL }
+                974 = { add_core = GOL }
+                978 = { add_core = GOL }
+                1049 = { add_core = GOL }
+                973 = { add_core = GOL }
+                972 = { add_core = GOL }
+                963 = { add_core = GOL }
+                961 = { add_core = GOL }
+                971 = { add_core = GOL }
+                970 = { add_core = GOL }
+                965 = { add_core = GOL }
+                968 = { add_core = GOL }
+                969 = { add_core = GOL }
+                954 = { add_core = GOL }
+            }
+        }
+        
+        freed_crimeans = {
+            picture = enact_muhammad_alis_reforms
+            potential = {
+                has_country_flag = freeCrimeans
+                NOT = {has_country_flag = freedCrimeans}
+                tag = GOL
+                AI = no
+            }
+            allow = {
+                AI = no
+                war = no
+                OR = {
+                    is_greater_power = yes
+                    is_secondary_power = yes
+                }
+                has_unclaimed_cores = no
+            }
+            effect = {
+                    prestige = 25
+                    set_country_flag = freedCrimeans
+                    any_country = {
+                        limit = {
+                           vassal_of = THIS
+                           OR = {
+                           tag = KHO # Khorasan
+                           tag = YRK # Yarkand
+                           tag = KHA # Khalkha
+                           tag = SIB # Sibir
+                           tag = XIN # Xinjiang
+                           }
+                       }
+                    annex_to = THIS
+                }
+            }
+        }    
+}

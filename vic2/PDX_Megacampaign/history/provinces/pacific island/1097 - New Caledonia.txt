@@ -1,0 +1,6 @@
+owner=MLY
+controller=MLY
+add_core=AOT
+trade_goods = coffee
+life_rating = 15
+colonial=2

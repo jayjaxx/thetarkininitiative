@@ -1,0 +1,8 @@
+owner=LOT
+controller=LOT
+add_core=FRI
+add_core=LOT
+add_core=NET
+trade_goods = fish
+life_rating = 35
+fort = 1

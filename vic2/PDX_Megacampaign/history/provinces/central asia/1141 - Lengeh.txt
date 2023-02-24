@@ -1,0 +1,9 @@
+owner=ISR
+controller=ISR
+add_core=ISR
+add_core=PER
+add_core=X17
+trade_goods = fish
+life_rating = 35
+terrain = semidesert
+fort = 1

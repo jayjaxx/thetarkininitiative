@@ -1,0 +1,9 @@
+owner=JAP
+controller=JAP
+add_core=CHI
+add_core=JAP
+add_core=KRC
+add_core=YAN
+trade_goods = grain
+life_rating = 32
+naval_base = 2

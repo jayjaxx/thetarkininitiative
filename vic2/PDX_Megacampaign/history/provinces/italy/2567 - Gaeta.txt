@@ -1,0 +1,7 @@
+owner=LTN
+controller=LTN
+add_core=ITA
+add_core=LTN
+add_core=SIC
+trade_goods = silk
+life_rating = 35

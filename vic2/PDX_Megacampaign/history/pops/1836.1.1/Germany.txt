@@ -1,0 +1,8779 @@
+369 = {
+	soldiers=
+	{
+		culture = danish
+		religion = catholic
+		size= 1499
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = catholic
+		size= 1892
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = catholic
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 49
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 337
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = catholic
+		size= 50696
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size= 662
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size= 3564
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size= 318
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 93
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 633
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size= 18753
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1704
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 14061
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1254
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 367
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2498
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 41804
+	}
+
+}
+528 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1272
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3218
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 285
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 84
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 276
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 40962
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2031
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 13491
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1195
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 353
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1156
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 55131
+	}
+
+}
+529 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 354
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2475
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 223
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 32008
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 563
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 10358
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 962
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 207
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 932
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 43189
+	}
+
+}
+530 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1119
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2873
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 74
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 36581
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1793
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 12081
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1049
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 313
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1014
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 49415
+	}
+
+}
+531 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3144
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 4785
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 445
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 123
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 862
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 58892
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 4621
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 18849
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1750
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 484
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 391
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3393
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 70970
+	}
+
+}
+532 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 506
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2278
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 329
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 81
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 212
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 47187
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 9007
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1301
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 320
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 840
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 62136
+	}
+
+}
+533 = {
+	soldiers=
+	{
+		culture = danish
+		religion = catholic
+		size= 722
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = catholic
+		size= 258
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = catholic
+		size= 24671
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size= 454
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 41
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size= 8860
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 859
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1940
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 315
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 175
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 407
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 26890
+	}
+
+}
+534 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1276
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2055
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 276
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 42859
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1803
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 7861
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 506
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 126
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1055
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 54187
+	}
+
+}
+535 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1973
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2436
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 214
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 302
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 30636
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2802
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 9352
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 819
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 193
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1160
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 35973
+	}
+
+}
+536 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 961
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1545
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 31514
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1418
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 6104
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 441
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 95
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 570
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 41881
+	}
+
+}
+537 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1653
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 4132
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 443
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 372
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 52328
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2302
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 15644
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1676
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 157
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 179
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1408
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 60870
+	}
+
+}
+538 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1198
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3726
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 329
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 96
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 319
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 56554
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1540
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 16036
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1415
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 414
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1370
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 59977
+	}
+
+}
+539 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 397
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1391
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 37641
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 578
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 12269
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1139
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 315
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 114
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1104
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 42319
+	}
+
+}
+540 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 784
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1763
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 127
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 55
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 36185
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1183
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 7088
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 512
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 221
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 992
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 49109
+	}
+
+}
+541 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1454
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1818
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 218
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 22251
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2065
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 6981
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 648
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 140
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 838
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 26127
+	}
+
+}
+542 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1300
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 893
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 21231
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1534
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3662
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 98
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 342
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 21429
+	}
+
+}
+543 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 1714
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 1015
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 147
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 142
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 42028
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 2293
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 8475
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 1224
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 339
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 1186
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 46717
+	}
+
+}
+544 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 4555
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 6951
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 629
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 140
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 819
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 86322
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 7123
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 28695
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2599
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 577
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 518
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3383
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 112599
+	}
+
+}
+545 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 564
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1411
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 131
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 17910
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 853
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 5677
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 527
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 146
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 341
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 22842
+	}
+
+}
+547 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1585
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2412
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 224
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 29992
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2449
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 9867
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 916
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 197
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 204
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 592
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 39023
+	}
+
+}
+548 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1345
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 970
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 303
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 69
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 312
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 46270
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2084
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3971
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1236
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 284
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 213
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1276
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 67221
+	}
+
+}
+549 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 5054
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 6751
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 626
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 159
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 606
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 94447
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 7500
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 30757
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2851
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 722
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 573
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2761
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 115661
+	}
+
+}
+550 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 854
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2136
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 198
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 55
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 27108
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1291
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 8593
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 798
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 221
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 129
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 516
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 34572
+	}
+
+}
+551 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 563
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2534
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 366
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 62
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 710
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 52034
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 851
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 10196
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1473
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 250
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 148
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2855
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 69369
+	}
+
+}
+552 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1297
+	}
+
+	craftsmen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3517
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3394
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 363
+	}
+
+	clerks=
+	{
+		culture = north_german
+		religion = catholic
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 51
+	}
+
+	capitalists=
+	{
+		culture = north_german
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 407
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 37189
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1004
+	}
+
+	craftsmen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2722
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2358
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 253
+	}
+
+	clerks=
+	{
+		culture = north_german
+		religion = protestant
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 35
+	}
+
+	capitalists=
+	{
+		culture = north_german
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 283
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 29069
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = catholic
+		size= 712
+	}
+
+	craftsmen=
+	{
+		culture = polish
+		religion = catholic
+		size= 1931
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = catholic
+		size= 9313
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = catholic
+		size= 998
+	}
+
+	clerks=
+	{
+		culture = polish
+		religion = catholic
+		size= 305
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = catholic
+		size= 93
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = catholic
+		size= 140
+	}
+
+	capitalists=
+	{
+		culture = polish
+		religion = catholic
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = catholic
+		size= 1118
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = catholic
+		size= 10745
+	}
+
+}
+553 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3445
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 4521
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 408
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 84
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 258
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 85313
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 4677
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 26485
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2382
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 493
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 389
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1509
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 91547
+	}
+
+}
+554 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1078
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 259
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 28626
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1598
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 10039
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 999
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 102
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 146
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 921
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 30455
+	}
+
+}
+555 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 219
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 83
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 21597
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 292
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1960
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 368
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 68
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 617
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 25807
+	}
+
+}
+556 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 434
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2117
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 158
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 299
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 44299
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 602
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 7993
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 594
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 126
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1130
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 55163
+	}
+
+}
+557 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1243
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1998
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 289
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 49
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 280
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 40497
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1827
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 7872
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1137
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 192
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 184
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1102
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 52953
+	}
+
+}
+558 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 9063
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 33866
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3145
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 436
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 409
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2970
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 195991
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2694
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 10628
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 987
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 136
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 129
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 933
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 61564
+	}
+
+}
+559 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 4752
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1390
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 98113
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 6372
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 32662
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3414
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 608
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 561
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2948
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 93539
+	}
+
+}
+560 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2522
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 12843
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1192
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 128
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 146
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 771
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 72481
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1182
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 5683
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 527
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 57
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 341
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 34391
+	}
+
+}
+561 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1884
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 915
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 162
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 65868
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2553
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 21564
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2236
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 280
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 153
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3821
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 62275
+	}
+
+}
+562 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1260
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 298
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 32423
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1866
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 11531
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1235
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 115
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 165
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1038
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 34494
+	}
+
+}
+563 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 248
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1115
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 208
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 23083
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 352
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 4281
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 309
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 67
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 799
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 29317
+	}
+
+}
+564 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 879
+	}
+
+	craftsmen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3335
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2237
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 87
+	}
+
+	clerks=
+	{
+		culture = north_german
+		religion = catholic
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 14
+	}
+
+	capitalists=
+	{
+		culture = north_german
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 187
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 25572
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1274
+	}
+
+	craftsmen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 4835
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 8725
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 337
+	}
+
+	clerks=
+	{
+		culture = north_german
+		religion = protestant
+		size= 392
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 64
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 55
+	}
+
+	capitalists=
+	{
+		culture = north_german
+		religion = protestant
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 728
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 30322
+	}
+
+}
+565 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1236
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1150
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 24654
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1948
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 4774
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 294
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 81
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 403
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 35038
+	}
+
+}
+566 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1177
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1935
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 39843
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1706
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 7549
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 472
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 85
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 178
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 712
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 52057
+	}
+
+}
+567 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 680
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 546
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 22917
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 967
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 4745
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 342
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 74
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 665
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 27617
+	}
+
+}
+568 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 340
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1169
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 327
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 32889
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 471
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 6125
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 442
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 95
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 89
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1715
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 38196
+	}
+
+}
+569 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 978
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1616
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 458
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 33003
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1440
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 6374
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 387
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 129
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 151
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1807
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 42966
+	}
+
+}
+570 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 639
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1071
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 22151
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 950
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 4256
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 234
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 67
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 528
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 29557
+	}
+
+}
+571 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 410
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 877
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 127
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 42965
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 640
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 3621
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 521
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 167
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 827
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 63886
+	}
+
+}
+572 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1437
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 625
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 28802
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2275
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2603
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 423
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 91
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 189
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 820
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 43047
+	}
+
+}
+573 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 324
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 2268
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 204
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 29457
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 517
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 9503
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 441
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 95
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 855
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 40181
+	}
+
+}
+574 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 892
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 637
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 201
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 29972
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1397
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2634
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 428
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 119
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 830
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 44363
+	}
+
+}
+575 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2541
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2466
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 345
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 334
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 50028
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 4064
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 10351
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1450
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 212
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 261
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1403
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 71264
+	}
+
+}
+576 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3885
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 5913
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 274
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 59
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 122
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 827
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 73389
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 6081
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 24419
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1134
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 244
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 506
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3419
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 96387
+	}
+
+}
+577 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 334
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1504
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 211
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 31220
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 538
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 6344
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 458
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 127
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 888
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 45328
+	}
+
+}
+578 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 246
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1261
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 26565
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 5278
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 307
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 503
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 37676
+	}
+
+}
+579 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 832
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 814
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 16269
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1313
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3383
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 244
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 53
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 316
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 23121
+	}
+
+}
+580 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1231
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2471
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 41501
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1609
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 12029
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 484
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 157
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 101
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 650
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 43879
+	}
+
+}
+581 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1159
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 828
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 174
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 39003
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1858
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3482
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 566
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 192
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 183
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 731
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 59346
+	}
+
+}
+582 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 916
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1279
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 30230
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1311
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 5879
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 425
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 92
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 137
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 548
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 38454
+	}
+
+}
+583 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2345
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 4436
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 412
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 70
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 399
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 55627
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3396
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 17285
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1605
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 272
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 309
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1556
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 67356
+	}
+
+}
+584 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 565
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 454
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 19057
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 803
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3947
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 285
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 61
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 552
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 22968
+	}
+
+}
+585 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 725
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1014
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 23962
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1039
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 4660
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 337
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 73
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 435
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 30479
+	}
+
+}
+586 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 4440
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 5891
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 536
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 110
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 815
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 109014
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 3306
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 18450
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1676
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 344
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 285
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2551
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 63230
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2656
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 15193
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1380
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 284
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 235
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 50329
+	}
+
+}
+587 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 2540
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 3866
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 359
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 232
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 48099
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 4042
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 16168
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1501
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 208
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 335
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 970
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 64648
+	}
+
+}
+588 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 3029
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1981
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 184
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 356
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 60225
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1537
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 4969
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 461
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 92
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 894
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 25349
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1591
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 11789
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1095
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 219
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 244
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2122
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 17519
+	}
+
+}
+589 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 3672
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 3591
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 505
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 105
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 997
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 71504
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 5324
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 14004
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1967
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 409
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 377
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 3887
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 90488
+	}
+
+}
+590 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1500
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 2886
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 416
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 70
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 808
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 73212
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2174
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 14517
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2098
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 355
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 274
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 4065
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 90933
+	}
+
+}
+591 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1106
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1151
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 414
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 37533
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 829
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 3684
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 342
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 68
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1326
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 23283
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 724
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 8455
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 785
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 157
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 3044
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 12565
+	}
+
+}
+592 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 7522
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 4963
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 460
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 63
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 894
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 149517
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2265
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 9931
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 922
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 127
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 206
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1787
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 34662
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 3156
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 24498
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2274
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 315
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 507
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 4410
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 33430
+	}
+
+}
+593 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 3223
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 2654
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 478
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 80421
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1080
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 5486
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 509
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 71
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 987
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 20952
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1569
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 14079
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1307
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 181
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 251
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2534
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 22497
+	}
+
+}
+594 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 735
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 766
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 276
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 24974
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 551
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2451
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 228
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 46
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 883
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 15491
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 482
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 5626
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 522
+	}
+
+	bureaucrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 104
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2025
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 8362
+	}
+
+}
+595 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 3310
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 2607
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 236
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 228
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 85470
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 4792
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 28224
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2546
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 446
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 416
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2466
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 91492
+	}
+
+}
+596 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 849
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1607
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 28845
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1232
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 8801
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 408
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 88
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 132
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 528
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 33053
+	}
+
+}
+597 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1102
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1771
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 128
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 496
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 35782
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1611
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 6950
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 502
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 108
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 162
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1946
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 46266
+	}
+
+}
+598 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1623
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 875
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 245
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 82759
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2320
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 17808
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1287
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 435
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 336
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 4987
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 96018
+	}
+
+}
+599 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 6827
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 13370
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 922
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 332
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 316
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1211
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 162683
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2250
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 8552
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 590
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 213
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 203
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 774
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 48483
+	}
+
+}
+600 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 4680
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 4406
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 318
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 123
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 411
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 116579
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 5290
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 19848
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1434
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 485
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 553
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1852
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 113608
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 107
+	}
+
+}
+601 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 5078
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 4149
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 598
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 102
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1162
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 99193
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 4358
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 14313
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2068
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 349
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 462
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 4007
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 69156
+	}
+
+}
+602 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 2866
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 4326
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 201
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 68
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 390
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 69536
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 4121
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 22114
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1027
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 347
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 394
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1990
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 81400
+	}
+
+}
+687 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2707
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2728
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 293
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 328
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 52744
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1502
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2076
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 222
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 15
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 249
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 28567
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = catholic
+		size= 1422
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = catholic
+		size= 11533
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = catholic
+		size= 1236
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = catholic
+		size= 82
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = catholic
+		size= 239
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = catholic
+		size= 1384
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = catholic
+		size= 15008
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 328
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 784
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 5811
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 197
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 1619
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 173
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 2050
+	}
+
+}
+695 = {
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 634
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 2344
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 244
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 30
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 415
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 63671
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 886
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 20134
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2087
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 261
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3568
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 66795
+	}
+
+}
+697 = {
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 323
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 1133
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 30650
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 465
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 9905
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1061
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 127
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1189
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 33622
+	}
+
+}
+1743 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1282
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 881
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 20951
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1513
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 3613
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 261
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 97
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 337
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 21146
+	}
+
+}
+2560 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 864
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1388
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 28248
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1285
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 5517
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 398
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 86
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 129
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 772
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 37693
+	}
+
+}
+2561 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 143
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 641
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 13331
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2685
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 194
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 42
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 292
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 18424
+	}
+
+}

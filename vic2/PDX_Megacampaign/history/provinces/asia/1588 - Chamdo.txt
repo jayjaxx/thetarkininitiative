@@ -1,0 +1,8 @@
+owner=X20
+controller=X20
+add_core=TIB
+add_core=UTS
+add_core=X20
+trade_goods = cattle
+life_rating = 30
+fort = 1

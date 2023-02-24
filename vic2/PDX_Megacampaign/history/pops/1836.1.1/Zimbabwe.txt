@@ -1,0 +1,483 @@
+2068 = {
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 2112
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 3017
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 981
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 211
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 158
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 950
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 67997
+	}
+
+}
+2069 = {
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 2220
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 11099
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 515
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 285
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 166
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 999
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 63992
+	}
+
+}
+2070 = {
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 428
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 5986
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 278
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 103
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 539
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 35370
+	}
+
+}
+2071 = {
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 2915
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 2535
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 824
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 228
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 184
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 799
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 55891
+	}
+
+}
+2072 = {
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 3132
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 7568
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1094
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 236
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 210
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1060
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 71351
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = catholic
+		size= 440
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = catholic
+		size= 62
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 311
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 378
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 12
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 7583
+	}
+
+}
+2073 = {
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 2055
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1787
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 581
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 161
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 563
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 39399
+	}
+
+}
+2635 = {
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 310
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 4052
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 70
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 365
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 25965
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = catholic
+		size= 292
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = catholic
+		size= 26
+	}
+
+}

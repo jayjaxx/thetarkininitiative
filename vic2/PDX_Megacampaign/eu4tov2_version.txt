@@ -1,0 +1,7 @@
+
+
+************ -= The Paradox Game Converters Group =- *****************
+* Converter version 1.0V "Venice"
+* Compatible with EU4 [v1.0-v1.34] and Vic2 [v3]
+* Built on Sat Jan 28 10:33:56 2023
+************************** + EU4 To Vic2 + ***************************

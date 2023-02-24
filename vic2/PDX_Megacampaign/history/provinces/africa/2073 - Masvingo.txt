@@ -1,0 +1,6 @@
+owner=ZUL
+controller=ZUL
+add_core=ZULain
+life_rating = 10
+terrain = savanna
+

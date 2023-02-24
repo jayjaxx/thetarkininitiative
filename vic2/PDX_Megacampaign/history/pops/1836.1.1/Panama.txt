@@ -1,0 +1,542 @@
+1723 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 960
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 452
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 5940
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 176
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 383
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 29
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 121
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 2155
+	}
+
+}
+2204 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 692
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1477
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 56
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 4278
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 271
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 589
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 44
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 8098
+	}
+
+}
+2205 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 223
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1300
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 36
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 1325
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 183
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 399
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 30
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 7082
+	}
+
+}
+2206 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 319
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1555
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 77
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 1967
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 234
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 508
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 38
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 8758
+	}
+
+}
+2208 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2798
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 13212
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 691
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 51
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 287
+	}
+
+}

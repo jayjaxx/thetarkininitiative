@@ -1,0 +1,284 @@
+1326 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 12538
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = sunni
+		size= 4246
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = sunni
+		size= 10057
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = sunni
+		size= 726
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = sunni
+		size= 246
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = sunni
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = sunni
+		size= 939
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = sunni
+		size= 82854
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = hindu
+		size= 5731
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1941
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 4597
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 332
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 112
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 429
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 37878
+	}
+
+}
+1327 = {
+	slaves=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 16239
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 1871
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 3940
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 641
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 236
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 118
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 1654
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 73799
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = sunni
+		size= 4137
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = sunni
+		size= 477
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = sunni
+		size= 502
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = sunni
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = sunni
+		size= 30
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = sunni
+		size= 211
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = sunni
+		size= 19637
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 3737
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = sunni
+		size= 431
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = sunni
+		size= 1408
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = sunni
+		size= 229
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = sunni
+		size= 85
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = sunni
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = sunni
+		size= 592
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = sunni
+		size= 16141
+	}
+
+}

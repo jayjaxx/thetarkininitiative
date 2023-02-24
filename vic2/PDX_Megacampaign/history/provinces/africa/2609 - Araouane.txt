@@ -1,0 +1,6 @@
+owner=SGH
+controller=SGH
+add_core=AYR
+add_core=SGH
+trade_goods = cattle
+life_rating = 5

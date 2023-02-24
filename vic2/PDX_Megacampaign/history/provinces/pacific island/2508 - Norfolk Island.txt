@@ -1,0 +1,8 @@
+owner=SNZ
+controller=SNZ
+add_core=AOT
+add_core=SNZ
+trade_goods = fish
+life_rating = 31
+terrain = small_island
+colonial=2

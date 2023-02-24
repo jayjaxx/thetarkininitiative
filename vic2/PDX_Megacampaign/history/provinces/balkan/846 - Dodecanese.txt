@@ -1,0 +1,8 @@
+owner=LTN
+controller=LTN
+add_core=FRA
+add_core=JER
+add_core=LTN
+trade_goods = grain
+life_rating = 35
+terrain = small_island

@@ -1,0 +1,15 @@
+owner=POM
+controller=POM
+add_core=GER
+add_core=POM
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+naval_base = 1
+fort = 1
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

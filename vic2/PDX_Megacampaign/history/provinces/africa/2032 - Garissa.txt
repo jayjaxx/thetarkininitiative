@@ -1,0 +1,7 @@
+owner=SOM
+controller=SOM
+trade_goods = cattle
+life_rating = 10
+terrain = savanna
+colonial=1
+fort = 1

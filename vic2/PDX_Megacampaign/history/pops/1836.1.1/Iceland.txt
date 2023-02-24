@@ -1,0 +1,212 @@
+252 = {
+	soldiers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 2834
+	}
+
+	craftsmen=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 2121
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 2766
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 258
+	}
+
+	clerks=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 72
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 56
+	}
+
+	capitalists=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 249
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 53187
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 2298
+	}
+
+	craftsmen=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 1720
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 1139
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 106
+	}
+
+	clerks=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	capitalists=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 44512
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 5782
+	}
+
+	craftsmen=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 4329
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 29308
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 2722
+	}
+
+	clerks=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 435
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 753
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 607
+	}
+
+	capitalists=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 122
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 2637
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 78985
+	}
+
+}

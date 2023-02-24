@@ -1,0 +1,6 @@
+owner=CAN
+controller=CAN
+add_core=CAN
+add_core=HUR
+trade_goods = iron
+life_rating = 31

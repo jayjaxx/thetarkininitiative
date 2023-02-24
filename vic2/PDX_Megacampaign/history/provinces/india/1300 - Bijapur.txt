@@ -1,0 +1,8 @@
+owner=HDU
+controller=HDU
+add_core=HDU
+add_core=HND
+add_core=MRT
+add_core=MYS
+trade_goods = fruit
+life_rating = 32

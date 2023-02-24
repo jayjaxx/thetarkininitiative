@@ -1,0 +1,6 @@
+owner=JIM
+controller=ETH
+add_core=ETH
+add_core=JIM
+trade_goods = cattle
+life_rating = 35
